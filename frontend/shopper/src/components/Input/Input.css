@@ -1,0 +1,31 @@
+.input {
+  border: none;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+  outline: none;
+  font-size: 14pt;
+  padding: 8px;
+  transition: .3s;
+}
+
+.input:hover,
+.input:active,
+.input:focus {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.6);
+}
+
+
+.w-1 {
+  width: 80px;
+}
+
+.w-2 {
+  width: 150px;
+}
+
+.w-3 {
+  width: 500px;
+}
+
+.w-4 {
+  width: 600px;
+}
